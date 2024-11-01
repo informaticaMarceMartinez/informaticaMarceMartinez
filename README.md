@@ -1,8 +1,8 @@
 # 👨‍💻 Marcelo Martínez - Analista y Desarrollador de Soluciones Informáticas
-¡Hola! Soy Marcelo, un apasionado de las nuevas tecnologías, con varios años de experiencia en **PROGRAMACION** realizando varios diseños, desarrollos, despliegues de diferentes aplicaciones WEB y softwares. 
-Ademas en **HARDWARE y SOFTWARE** realizando configuraciones, parcheos, migraciones a entornos virtuales y tareas como **Administrador** de Soluciones IT. 
+¡Hola! Soy Marcelo, un apasionado de las nuevas tecnologías, con varios años de experiencia en **PROGRAMACION**, he realizando varios diseños, desarrollos, y despliegues de diferentes apps WEB y software.
+Pero además de ofrecer desarrollo y programación, tengo una excelente experiencia en **HARDWARE y SOFTWARE** realizando configuraciones, parcheos, y migraciones desde entornos on-premise a entornos 100% virtuales o hibridos. Además de tareas como **Administrador** de Soluciones IT. 
 
-Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo de Aplicaciones Web**, así como en la utilización de **Bases de Datos** Relacionales, con un sólido manejo de tecnologías modernas y la capacidad de resolver problemas complejos de manera eficiente.
+Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo de Aplicaciones**, así como en la utilización de **Bases de Datos** Relacionales, con un sólido manejo de tecnologías modernas y la capacidad de resolver problemas complejos de manera eficiente.
 
 ---
 
@@ -37,12 +37,8 @@ Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo d
    - **Administración de Sistemas**: Linux, Windows Server, experiencia en virtualización con VMware y Hyper-V
    - **Servidores Físicos y Virtuales**: IBM (Systems X, BladeCenter, Power Systems, FlashSystem), HPE ProLiant, Lenovo ThinkSystem, Dell PowerEdge, Supermicro Server Solutions, VMware, Hyper-V
 
-
-## 🗄️ Experiencia en Almacenamiento(Storage Empresarial) y Seguridad en Sistemas IT
-  
-  ### Seguridad y Redes:
-   - **Firewalls, Switches y Soluciones de Seguridad**: Configuración, despliegues y mantenimiento de Fortinet, Palo Alto, Lenovo, A10 Network, Exinda
-   - **Certificados y Cifrado**: PGP para cifrado de datos y autenticación, gestión de certificados para comunicación segura
+  ### Almacenamiento (Storage Empresarial) y Seguridad en Sistemas IT:  
+   - **Firewalls, Switches y Soluciones de Seguridad**: Configuración, despliegues y mantenimiento de equipos Fortinet, Palo Alto, Lenovo, A10 Network, Exinda
    - **Sistemas de Almacenamiento**:
        - Configuración, despliegue y administración de sistemas de almacenamiento (Storage), NAS, SAN, DAS, Flash
        - Conocimiento en soluciones de almacenamiento en la nube, como Amazon S3 y Microsoft Azure
@@ -54,7 +50,7 @@ Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo d
    - **Seguridad en Almacenamiento y Cifrado de Datos**:
        - Implementación de soluciones de cifrado para la protección de datos sensibles en almacenamiento.
        - Gestión de certificados y autenticación mediante PGP, certificados SSL y políticas de cifrado empresarial.
-    
+--- 
 
   ## 📚 Formación
 
