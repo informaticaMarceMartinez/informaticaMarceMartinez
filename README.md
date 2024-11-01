@@ -1,5 +1,4 @@
-# 👨‍💻 Marcelo Martínez - Desarrollador Full Stack
-
+# 👨‍💻 Marcelo Martínez - Analista y Desarrollador de Soluciones Informáticas
 ¡Hola! Soy Marcelo, un apasionado de las nuevas tecnologías, con varios años de experiencia en **PROGRAMACION** realizando varios diseños, desarrollos, despliegues de diferentes aplicaciones WEB y softwares. 
 Ademas en **HARDWARE y SOFTWARE** realizando configuraciones, parcheos, migraciones a entornos virtuales y tareas como **Administrador** de Soluciones IT. 
 
