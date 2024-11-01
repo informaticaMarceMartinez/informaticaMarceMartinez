@@ -39,7 +39,7 @@ Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo d
    - **Servidores Físicos y Virtuales**: IBM (Systems X, BladeCenter, Power Systems, FlashSystem), HPE ProLiant, Lenovo ThinkSystem, Dell PowerEdge, Supermicro Server Solutions, VMware, Hyper-V
 
 
-## 🗄️ Experiencias en Almacenamiento (Storage Empresarial) y Seguridad de Infraestructuras
+## 🗄️ Experiencia en Almacenamiento(Storage Empresarial) y Seguridad en Sistemas IT
   
   ### Seguridad y Redes:
    - **Firewalls, Switches y Soluciones de Seguridad**: Configuración, despliegues y mantenimiento de Fortinet, Palo Alto, Lenovo, A10 Network, Exinda
