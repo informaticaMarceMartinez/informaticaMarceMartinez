@@ -1,7 +1,7 @@
 # 👨‍💻  Ap. Marcelo Martínez
   ## Analista y Desarrollador de Soluciones Informáticas.
 
-¡Hola! Soy Marcelo, un apasionado de las nuevas tecnologías, con varios años de experiencia en **PROGRAMACION**, he realizando varios diseños, desarrollos, y despliegues de diferentes apps WEB y software.
+¡Hola! Soy Marcelo, un apasionado de las nuevas tecnologías, con varios años de experiencia en **PROGRAMACION**, he realizando diseños, desarrollos, y despliegues de diferentes apps WEB y software.
 Pero además de ofrecer desarrollo y programación, tengo una excelente experiencia en **HARDWARE y SOFTWARE** realizando configuraciones, parcheos, y migraciones desde entornos on-premise a entornos 100% virtuales o hibridos. Además de tareas como **Administrador** de Soluciones IT. 
 
 Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo de Aplicaciones**, así como en la utilización de **Bases de Datos** Relacionales, con un sólido manejo de tecnologías modernas y la capacidad de resolver problemas complejos de manera eficiente.
