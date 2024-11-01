@@ -7,43 +7,41 @@ Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo d
 
 ---
 
-# 🚀 Tecnologías y Habilidades Principales
+## 🚀 Tecnologías y Habilidades Principales
 
-  ## Frontend:
+  ### Frontend:
    - **Lenguajes y Tecnologías**: HTML5, CSS3, JavaScript
    - **Frameworks y Librerías**: React, Angular, JSP
    - **Herramientas y Buenas Prácticas**: Accesibilidad, diseño responsivo, optimización de rendimiento en la carga de interfaces
 
-  ## Backend:
+  ### Backend:
    - **Lenguajes de Programación**: Java, Python, JSP, PHP, C#, .NET, SQL
    - **Bases de Datos**: IBM DB2, Oracle, MySQL, MS SQL Server, PostgreSQL, MariaDB, IBM Informix
    - **APIs y Servicios Web**: Desarrollo y consumo de APIs RESTful, conocimientos básicos en GraphQL y SOAP
    - **Optimización y Pruebas de Bases de Datos**: Optimización de consultas SQL, diseño y gestión de índices, análisis de rendimiento y normalización de datos
    - **Scripting**: Bash, PowerShell, Batch // Automatización de tareas y mantenimientos
-   - **Seguridad en Aplicaciones Backend**:
-      - **Autenticación y Autorización**: Conocimientos en OAuth, JWT, OpenID Connect
-      - **Protección contra vulnerabilidades**: Implementación de prevención para ataques como SQL Injection, CSRF, y XSS
+   - **Seguridad en Aplicaciones Backend**: Autenticación y Autorización, conocimientos en OAuth, JWT, OpenID Connect
+   - **Protección contra vulnerabilidades**: Implementación de prevención para ataques como SQL Injection, CSRF, y XSS
 
-  ## Diseño y Análisis de Software:
-   - **Análisis, Diseño e Implementación**: Experiencia en análisis, diseño y desarrollo en distintos paradigmas de programación (orientada a objetos, estructurada, modular, XP, Scrum)
+  ### Diseño y Análisis de Software:
+   - **Análisis, Diseño e Implementación**: Experiencia en análisis, diseño y desarrollo en distintos paradigmas de programación como orientada a objetos, estructurada, modular, XP, Scrum
    - **Herramientas y Metodologías de Diseño**: Modelado y diseño de software con UML, diagramas de casos de uso, diagramas de clases, secuencia y componentes para estructuración y diseño de soluciones de software
 
-  ## QA y Pruebas:
-   - **Pruebas de Backend**: Unitarias y de integración utilizando frameworks como JUnit (Java) y PHPUnit (PHP)
+  ### QA y Pruebas:
+   - **Pruebas de Backend**: Unitarias y de integración utilizando diferentes frameworks para Java, PHP, etc.-
    - **Pruebas de APIs**: Postman para pruebas manuales, y conocimientos básicos de Newman para pruebas automatizadas
-   - **Monitoreo y Logs**: Conocimiento en herramientas como ELK Stack, Grafana y Prometheus para el seguimiento y análisis del rendimiento de aplicaciones y servicios
+   - **Monitoreo y Logs**: Conocimiento de diferentes herramientas para el seguimiento y análisis del rendimiento de aplicaciones, redes y servicios
 
-  ## Servidores y Herramientas:
+  ### Servidores y Herramientas:
    - **Servidores y Contenedores**: Apache Tomcat (Java), IIS (para .NET)
    - **Orquestación de Contenedores**: Kubernetes (gestión de contenedores y despliegue de microservicios)
    - **Administración de Sistemas**: Linux, Windows Server, experiencia en virtualización con VMware y Hyper-V
-   - **Servidores Físicos**: IBM (Systems X, BladeCenter, Power Systems, FlashSystem), HPE ProLiant, Lenovo ThinkSystem, Dell PowerEdge, Supermicro Server Solutions
-   - **Virtualización y Cloud**: VMware, Hyper-V
+   - **Servidores Físicos y Virtuales**: IBM (Systems X, BladeCenter, Power Systems, FlashSystem), HPE ProLiant, Lenovo ThinkSystem, Dell PowerEdge, Supermicro Server Solutions, VMware, Hyper-V
 
 
-# 🗄️ Experiencias en Almacenamiento (Storage Empresarial) y Seguridad de Infraestructuras
+## 🗄️ Experiencias en Almacenamiento (Storage Empresarial) y Seguridad de Infraestructuras
   
-  ## Seguridad y Redes:
+  ### Seguridad y Redes:
    - **Firewalls, Switches y Soluciones de Seguridad**: Configuración, despliegues y mantenimiento de Fortinet, Palo Alto, Lenovo, A10 Network, Exinda
    - **Certificados y Cifrado**: PGP para cifrado de datos y autenticación, gestión de certificados para comunicación segura
    - **Sistemas de Almacenamiento**:
@@ -59,32 +57,30 @@ Actualmente mi enfoque principal está en el **Análisis, Diseño y Desarrollo d
        - Gestión de certificados y autenticación mediante PGP, certificados SSL y políticas de cifrado empresarial.
     
 
-# 📚 Formación
+  ## 📚 Formación
 
-- **Desarrollo de Aplicaciones con Tecnologías Web** – Instituto PauCasals de Barcelona
-- **Big Data y Análisis de Datos Masivos** – Universitat Autònoma de Barcelona
-- **Administrador de Servidores Linux** – Universidad ORT
-- **Analista Programador** – Universidad ORT
+  - **Desarrollo de Aplicaciones con Tecnologías Web** – Instituto PauCasals de Barcelona
+  - **Big Data y Análisis de Datos Masivos** – Universitat Autònoma de Barcelona
+  - **Administrador de Servidores Linux** – Universidad ORT
+  - **Analista Programador** – Universidad ORT
 
+  ## 📚 Certificados Internacionales
 
-# 📚 Certificados Internacionales
+  - **VMware** – VTSP - VMware Technical Professional
+  - **IBM Certified** Technical Specialist – Midrange Storage Support
+  - **Fortinet** – FCNSA - Network Security Administrator 
+  - **Exinda** – ECNA - Certified Network Administrator
+  - **Lenovo** – Certified Data Center Professional 
+  - **IBM Certified** Technical Specialist – Systems X86
+  - **IBM Certified** Technical Specialist – Power Systems
 
-- **VMware** – VTSP - VMware Technical Professional
-- **IBM Certified** Technical Specialist – Midrange Storage Support
-- **Fortinet** – FCNSA - Network Security Administrator 
-- **Exinda** – ECNA - Certified Network Administrator
-- **Lenovo** – Certified Data Center Professional 
-- **IBM Certified** Technical Specialist – Systems X86
-- **IBM Certified** Technical Specialist – Power Systems
+  ## 🎯 Objetivo
 
-
-# 🎯 Objetivo
-
-Mi objetivo es seguir innovando en el área del **Desarrollo de Aplicaciones Web** , 
-Inteligencia Artificial, en la **Cyberseguridad**  y en la configuración y gestión de **Infraestructuras IT**, aportando soluciones robustas y eficientes que mejoren la productividad y seguridad de las organizaciones.
+  Mi objetivo es seguir innovando en el área del **Desarrollo de Aplicaciones Web** , 
+  Inteligencia Artificial, en la **Cyberseguridad**  y en la configuración y gestión de **Infraestructuras IT**, aportando soluciones robustas y eficientes que mejoren la productividad y seguridad de las organizaciones.
 
 
-  ## 📫 Contacto
+  ### 📫 Contacto
 
   Si deseas saber más sobre mis proyectos o colaborar en algo nuevo, no dudes en contactarme:
 
@@ -93,6 +89,5 @@ Inteligencia Artificial, en la **Cyberseguridad**  y en la configuración y gest
 
 - **WEB**: [Visita mi WEB](https://sites.google.com/view/cvmarcelomartinez/)
 - **LinkedIn**: [Visita mi Linkedin](https://www.linkedin.com/in/analistamarcelodensimartinez/)
-
 
 ---
